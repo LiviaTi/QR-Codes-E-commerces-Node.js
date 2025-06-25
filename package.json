@@ -5,10 +5,13 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start-dev": "node --watch src/index.js"
+    "start": "node --watch src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "utility kit for an e-commerce platform.",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
 }
