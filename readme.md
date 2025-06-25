@@ -1,7 +1,9 @@
 <h1>QR Code Generator for E-commerce</h1>
+<p align="center">
+  <img src="./docs/Architecture.png" alt="Descrição da Imagem" width="650"/>
+</p>
+<br/>
 
-<br/>
-<br/>
 
 ## 💻 About the Project
 
