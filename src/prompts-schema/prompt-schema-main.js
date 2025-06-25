@@ -11,4 +11,4 @@ const promptSchemaMain = [
 	}
 ]
 
-export default mainPrompt;
+export default promptSchemaMain;

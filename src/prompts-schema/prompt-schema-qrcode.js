@@ -14,4 +14,4 @@ const promptSchemaQRCode = [
 	},
 ];
 
-export default promptQRCode;
+export default promptSchemaQRCode;
